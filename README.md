@@ -1,1 +1,1 @@
-# NoBSC
+# NoBSC: Notears-Based Smooth Constraint
